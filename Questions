@@ -1,0 +1,12 @@
+📌 Questions
+
+1. Input 10 numbers into a list and print the second largest.
+2. Remove duplicates from a list without using set().
+3. Count how many times each item appears in a list.
+4. Merge two lists and sort them.
+5. Convert a list → tuple and tuple → list.
+6. Find the sum of all elements in a list without using sum().
+7. Reverse a list using slicing.
+8. Given a tuple of numbers, print all numbers greater than 50.
+9. Find the index of a value in a tuple (handle value not present).
+10.Multiply all elements of a list.
